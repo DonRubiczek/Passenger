@@ -1,0 +1,10 @@
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Kuba\Desktop\Kuba\Programowanie\DotNet\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb
